@@ -110,6 +110,12 @@ section h2{font-size:1.9rem;margin:0 0 12px}
 
 .alt-bg{background:var(--paper-soft);border-top:1px solid var(--line);border-bottom:1px solid var(--line)}
 
+/* photo gallery */
+.photo-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:16px}
+.photo-grid a{display:block;border-radius:12px;overflow:hidden;aspect-ratio:3/4;border:1px solid var(--line)}
+.photo-grid img{width:100%;height:100%;object-fit:cover;transition:transform .25s ease}
+.photo-grid a:hover img{transform:scale(1.04)}
+
 /* manufacturer / brand listing */
 .brand-section{margin-bottom:44px}
 .brand-section:last-child{margin-bottom:0}
