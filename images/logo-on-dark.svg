@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400">
+  <title>Redwood Signal Co. R Tree Mark (on dark)</title>
+  <desc>White R lettermark with a dark green redwood tree cutout, for use on dark backgrounds.</desc>
+
+  <!-- R mark -->
+  <path fill="#FFFFFF" fill-rule="evenodd" d="
+    M120 45
+    H350
+    C445 45 500 96 500 175
+    C500 230 470 270 415 290
+    L525 355
+    H405
+    L305 296
+    H230
+    V355
+    H120
+    Z
+
+    M230 125
+    V220
+    H340
+    C373 220 391 202 391 173
+    C391 143 373 125 340 125
+    Z
+  "/>
+
+  <!-- Redwood tree cutout: matches the site's dark footer background for a true knockout -->
+  <path fill="#1e3a2b" d="
+    M184 76
+    L168 108
+    H177
+    L155 141
+    H168
+    L142 177
+    H159
+    L128 218
+    H151
+    L116 263
+    H164
+    L164 342
+    H204
+    L204 263
+    H252
+    L217 218
+    H240
+    L209 177
+    H226
+    L200 141
+    H213
+    L191 108
+    H200
+    Z
+  "/>
+</svg>

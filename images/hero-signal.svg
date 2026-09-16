@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 700">
+  <title>Redwood WiFi Signal Icon</title>
+  <rect width="1000" height="700" fill="#214D32"/>
+  <circle cx="500" cy="350" r="250" fill="#FFFFFF" opacity=".055"/>
+  <circle cx="500" cy="350" r="185" fill="#FFFFFF" opacity=".055"/>
+  <circle cx="500" cy="350" r="125" fill="#FFFFFF" opacity=".045"/>
+
+  <!-- WiFi signal arcs -->
+  <g fill="none" stroke="#F3F3E9" stroke-width="14" stroke-linecap="round">
+    <path d="M370 230 C300 285 300 415 370 470"/>
+    <path d="M410 270 C365 310 365 390 410 430"/>
+    <path d="M630 230 C700 285 700 415 630 470"/>
+    <path d="M590 270 C635 310 635 390 590 430"/>
+  </g>
+
+  <!-- Stylized redwood -->
+  <path d="
+    M500 165
+    L480 215 L493 211
+    L468 250 L486 243
+    L454 286 L479 277
+    L438 326 L469 315
+    L425 365 L462 354
+    L414 407 L456 393
+    L400 451 L453 438
+    L390 490 L467 470
+    L467 550
+    L450 580
+    H550
+    L533 550
+    L533 470
+    L610 490
+    L547 438
+    L600 451
+    L544 393
+    L586 407
+    L538 354
+    L575 365
+    L531 315
+    L562 326
+    L521 277
+    L546 286
+    L514 243
+    L532 250
+    L507 211
+    L520 215
+    Z"
+    fill="none" stroke="#F3F3E9" stroke-width="10"
+    stroke-linejoin="round" stroke-linecap="round"/>
+</svg>
